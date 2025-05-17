@@ -60,7 +60,7 @@ for (int i = 1; i <= 100; i++) {
 cout << "Sum is " << sum;
 
 
-> Loops make your code shorter, cleaner, and more efficient when repetition is needed.
+### Loops make your code shorter, cleaner, and more efficient when repetition is needed.
 
 ---
 
