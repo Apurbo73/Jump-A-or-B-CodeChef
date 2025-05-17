@@ -13,12 +13,12 @@ In **C++**, a **loop** is a control structure that allows you to **execute a blo
 
 1. ### **`for` loop** – when you know how many times to repeat
 
-   ```cpp
+   
    for (int i = 0; i < 5; i++) {
        cout << i << " ";
    }
-   // Output: 0 1 2 3 4
-   ```
+    Output: 0 1 2 3 4
+   
 
 2. ### **`while` loop** – when you repeat as long as a condition is true
 
