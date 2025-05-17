@@ -22,13 +22,13 @@ In **C++**, a **loop** is a control structure that allows you to **execute a blo
 
 2. ### **`while` loop** – when you repeat as long as a condition is true
 
-   ```cpp
+   
    int i = 0;
    while (i < 5) {
        cout << i << " ";
        i++;
    }
-   ```
+  
 
 3. ### **`do...while` loop** – similar to `while`, but runs at least once
 
