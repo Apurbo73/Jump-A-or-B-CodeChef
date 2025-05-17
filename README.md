@@ -32,13 +32,13 @@ In **C++**, a **loop** is a control structure that allows you to **execute a blo
 
 3. ### **`do...while` loop** – similar to `while`, but runs at least once
 
-   ```cpp
+  
    int i = 0;
    do {
        cout << i << " ";
        i++;
    } while (i < 5);
-   ```
+
 
 ---
 
