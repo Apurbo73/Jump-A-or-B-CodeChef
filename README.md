@@ -52,13 +52,13 @@ In **C++**, a **loop** is a control structure that allows you to **execute a blo
 
 ### 🧠 Example Use Case:
 
-```cpp
+
 int sum = 0;
 for (int i = 1; i <= 100; i++) {
     sum += i;  // Adds 1 to 100
 }
 cout << "Sum is " << sum;
-```
+
 
 > Loops make your code shorter, cleaner, and more efficient when repetition is needed.
 
